@@ -67,7 +67,7 @@ Aplicația utilizează **H2 Database** în mod persistent. Datele nu se pierd la
 
 ---
 
-## 👥 Echipa de Proiect
+## Echipa de Proiect
 * **Profesor coordonator:** Prof. univ. dr. Pocatilu Paul
 * **Studenți:**
     * Dumitrescu Vlad-Eduard
